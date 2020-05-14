@@ -9,7 +9,7 @@ from gui import Gui
 Question 1: Changer le titre de la fenetre
 Question 2: Changer la taille minimale de la fenetre (1280x720)
 Question 3: ajouter un menu "fichier" avec 3 actions possible (ouvrir / enregistrer / quitter)
-Question 4: Ajouter la description des action dans la "statue bar"
+Question 4: Ajouter la description des action dans la "status bar"
 
 Question 5: ajouter un systeme d'onglet
 Question 6: dans l'onglet 1, ajouter un bouton qui ouvre un "input file" pour demander le nom de l'utilisateur
