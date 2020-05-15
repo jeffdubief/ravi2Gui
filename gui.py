@@ -25,6 +25,9 @@ class Gui(QMainWindow):
         recAct.setStatusTip('Enregistrer un fichier')
 
 
+        zeE AAE
+
+
         quitAct = QAction("Quitter",self)
         quitAct.triggered.connect(self.exit)
         quitAct.setShortcut('ctrl+Q')
